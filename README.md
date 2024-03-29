@@ -20,6 +20,7 @@ Alphabet Soup is a charitable organization that provides funding to various caus
 - Scikit-learn
 - Pandas
 - NumPy
+- Google Colab
 
 ## Data Preprocessing:
 - **Target Variable(s):** IS_SUCCESSFUL (Binary variable indicating funding success)
@@ -46,7 +47,7 @@ Alphabet Soup is a charitable organization that provides funding to various caus
 To run the project locally, follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 2. Install the required dependencies listed in the `requirements.txt` file using `pip install -r requirements.txt`.
-3. Open and run the `Alphabet_Soup_Funding.ipynb` notebook in Jupyter Notebook or any compatible environment.
+3. Open and run the `Alphabet_Soup_Funding.ipynb` notebook in Jupyter Notebook or any compatible environment. this was created in googgle colab.
 
 ## Usage:
 Feel free to use or modify the code provided here for your own projects. If you use this project as a reference or find it helpful, consider giving it a star on GitHub.
