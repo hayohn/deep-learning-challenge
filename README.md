@@ -19,7 +19,7 @@ Alphabet Soup is a charitable organization that provides funding to various caus
 - TensorFlow
 - Scikit-learn
 - Pandas
-- NumPy
+- MAtplotlib
 - Google Colab
 
 ## Data Preprocessing:
@@ -42,6 +42,13 @@ Alphabet Soup is a charitable organization that provides funding to various caus
 - `Alphabet_Soup_Funding.ipynb`: Jupyter Notebook containing the project code and analysis.
 - `charity_data.csv`: Dataset containing Alphabet Soup's funding application data.
 - `README.md`: This file, providing an overview of the project.
+- Word File for the written analyis including graphs generated in the code.
+Figure 1: APPLICATION_TYPE Value Counts After Binning
+Figure 2: Distribution of the Target Variable "IS_SUCCESSFUL" in the Training Set
+Figure 3: Top 10 Most Common Application Types
+Figure 4: Correlation Heatmap of Feature Variables
+
+
 
 ## Getting Started:
 To run the project locally, follow these steps:
